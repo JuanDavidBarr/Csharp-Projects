@@ -1,0 +1,14 @@
+/home/csharp/Música/Store/bin/Debug/net8.0/Store
+/home/csharp/Música/Store/bin/Debug/net8.0/Store.deps.json
+/home/csharp/Música/Store/bin/Debug/net8.0/Store.runtimeconfig.json
+/home/csharp/Música/Store/bin/Debug/net8.0/Store.dll
+/home/csharp/Música/Store/bin/Debug/net8.0/Store.pdb
+/home/csharp/Música/Store/obj/Debug/net8.0/Store.GeneratedMSBuildEditorConfig.editorconfig
+/home/csharp/Música/Store/obj/Debug/net8.0/Store.AssemblyInfoInputs.cache
+/home/csharp/Música/Store/obj/Debug/net8.0/Store.AssemblyInfo.cs
+/home/csharp/Música/Store/obj/Debug/net8.0/Store.csproj.CoreCompileInputs.cache
+/home/csharp/Música/Store/obj/Debug/net8.0/Store.dll
+/home/csharp/Música/Store/obj/Debug/net8.0/refint/Store.dll
+/home/csharp/Música/Store/obj/Debug/net8.0/Store.pdb
+/home/csharp/Música/Store/obj/Debug/net8.0/Store.genruntimeconfig.cache
+/home/csharp/Música/Store/obj/Debug/net8.0/ref/Store.dll
