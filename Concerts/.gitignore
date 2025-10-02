@@ -1,0 +1,153 @@
+## .NET & Visual Studio
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+
+# Visual Studio
+.vs/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Test results & logs
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.log
+*.tlog
+*.svclog
+*.pidb
+*.scc
+
+# MSTest / NUnit
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# Benchmark
+BenchmarkDotNet.Artifacts/
+
+# Coverage
+*.coverage
+*.coveragexml
+coverage*.json
+coverage*.xml
+coverage*.info
+
+# Others
+mono_crash.*
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.tmp
+*.tmp_proj
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Publish
+publish/
+*.[Pp]ublish.xml
+*.azurePubxml
+*.pubxml
+*.publishproj
+PublishScripts/
+
+# NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+
+# Azure
+csx/
+*.build.csdef
+ecf/
+rcf/
+
+# Windows Store
+AppPackages/
+BundleArtifacts/
+Package.StoreAssociation.xml
+_pkginfo.txt
+*.appx
+*.appxbundle
+*.appxupload
+
+# SQL Server
+*.mdf
+*.ldf
+*.ndf
+
+# Node.js
+node_modules/
+
+# Python cache (por si mezclas scripts)
+__pycache__/
+*.pyc
+
+# Logs / Temp
+*.dbmdl
+*.jfm
+*.pfx
+*.publishsettings
+~$*
+*~
+*.bak
+*.swp
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.lnk
